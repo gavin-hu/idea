@@ -1,9 +1,4 @@
 <code_scheme name="Gavin's Code Style">
-  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="50" />
-  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="30" />
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
   <codeStyleSettings language="go">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
