@@ -4,6 +4,7 @@
       <mapping ext="md" type="Native" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
