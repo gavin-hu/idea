@@ -8,6 +8,7 @@
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="filter" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
