@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".md" type="Markdown" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
+      <mapping pattern="CHANGES" type="PLAIN_TEXT" />
       <mapping pattern="sdf" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
