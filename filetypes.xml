@@ -12,6 +12,7 @@
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="filter" type="PLAIN_TEXT" />
+      <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="log_full" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
