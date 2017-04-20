@@ -2,19 +2,19 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".md" type="Markdown" />
+      <mapping ext="mwb" type="Native" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
-      <mapping pattern="CHANGES" type="PLAIN_TEXT" />
       <mapping pattern="sdf" type="PLAIN_TEXT" />
+      <mapping pattern="CHANGES" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="filter" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="provides" type="PLAIN_TEXT" />
-      <mapping ext="log_full" type="PLAIN_TEXT" />
-      <mapping ext="mwb" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
-      <mapping ext="gz" type="PLAIN_TEXT" />
-      <mapping ext="filter" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
+      <mapping ext="log_full" type="PLAIN_TEXT" />
       <mapping ext="bpmn" type="XML" />
       <mapping ext="bpmn2" type="XML" />
     </extensionMap>
