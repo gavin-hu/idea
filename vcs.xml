@@ -14,8 +14,12 @@
           <option name="url" value="http://10.10.100.12" />
           <option name="userName" value="huhz" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@10.10.100.12:2222/pps/docker-library.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/TopsRepositories" />
+    <option name="cloneParentDir" value="$USER_HOME$/Repositories/iPampasRepository" />
   </component>
 </application>
