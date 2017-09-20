@@ -46,6 +46,10 @@
           <option name="url" value="ssh://git@git.ipampas.net:2222/docker-compose/pantao.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@git.ipampas.net:2222/docker-compose/platform.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Repositories/iPampasRepository/docker-compose" />
