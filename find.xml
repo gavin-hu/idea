@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*Mapper.xml" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,7 +23,6 @@
       <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*</mask>
       <mask>*M</mask>
       <mask>*Ma</mask>
       <mask>*Map</mask>
@@ -31,6 +30,7 @@
       <mask>*Mapper</mask>
       <mask>*Mapper.</mask>
       <mask>*Mapper.xml</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
