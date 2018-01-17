@@ -7,6 +7,7 @@
       <mapping pattern="repositories" type="PLAIN_TEXT" />
       <mapping pattern="release-architectures" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
