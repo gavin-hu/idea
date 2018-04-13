@@ -6,6 +6,7 @@
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="8-jdk" type="PLAIN_TEXT" />
       <mapping pattern="repositories" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="release-architectures" type="PLAIN_TEXT" />
       <mapping ext="table" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
