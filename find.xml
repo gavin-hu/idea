@@ -5,30 +5,6 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.m</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*M</mask>
-      <mask>*Ma</mask>
-      <mask>*Map</mask>
-      <mask>*Mapp</mask>
-      <mask>*Mapper</mask>
-      <mask>*Mapper.</mask>
-      <mask>*Mapper.xml</mask>
-      <mask>*</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.mxml" />
   </component>
 </application>
