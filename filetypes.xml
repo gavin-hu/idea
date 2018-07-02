@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="avsc" type="JSON" />
       <mapping pattern="repositories" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="CaptchaResource.http" type="PLAIN_TEXT" />
       <mapping pattern="release-architectures" type="PLAIN_TEXT" />
