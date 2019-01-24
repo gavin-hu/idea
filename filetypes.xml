@@ -12,6 +12,7 @@
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="8-jdk" type="PLAIN_TEXT" />
       <mapping pattern="node" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="table" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
