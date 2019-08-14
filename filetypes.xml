@@ -18,6 +18,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="exec" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
