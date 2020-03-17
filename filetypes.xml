@@ -2,24 +2,23 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="test-Dockerfile" type="Dockerfile" />
-      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="avsc" type="JSON" />
-      <mapping pattern="repositories" type="PLAIN_TEXT" />
       <mapping pattern="新系统管理脚本" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="CaptchaResource.http" type="PLAIN_TEXT" />
-      <mapping pattern="release-architectures" type="PLAIN_TEXT" />
-      <mapping pattern="readme" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern="8-jdk" type="PLAIN_TEXT" />
       <mapping pattern="node" type="PLAIN_TEXT" />
-      <mapping ext="db" type="PLAIN_TEXT" />
-      <mapping ext="factories" type="PLAIN_TEXT" />
-      <mapping ext="table" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping pattern="CaptchaResource.http" type="PLAIN_TEXT" />
+      <mapping pattern="8-jdk" type="PLAIN_TEXT" />
+      <mapping pattern="repositories" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="release-architectures" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="table" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="factories" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
