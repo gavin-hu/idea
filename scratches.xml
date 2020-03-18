@@ -1,6 +1,0 @@
-<application>
-  <component name="ScratchFileService">
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" value="HTML" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.yml" value="yaml" />
-  </component>
-</application>
