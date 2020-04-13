@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="test-Dockerfile" type="Dockerfile" />
       <mapping ext="avsc" type="JSON" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="repositories" type="PLAIN_TEXT" />
       <mapping pattern="新系统管理脚本" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
