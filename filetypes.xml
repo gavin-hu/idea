@@ -17,7 +17,6 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="form" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
