@@ -1,0 +1,10 @@
+<application>
+  <component name="Azure Toolkit for IntelliJ">
+    <option name="properties">
+      <map>
+        <entry key="telemetry_installation_id" value="57cf6c898b8dd4d5fa600ae0f0967487f96216f804a90eafaaf88c1b80ad9eeb" />
+        <entry key="telemetry_plugin_version" value="3.55.0-2020.3" />
+      </map>
+    </option>
+  </component>
+</application>
